@@ -32,7 +32,7 @@ I identified repeated HTTP POST requests from `10.2.28.88` to external IP addres
 
 The requests targeted `/fakeurl.htm` using TCP destination port 443. Despite the port commonly being associated with HTTPS, the inspected traffic contained readable HTTP.
 
-![HTTP Requests](screenshots/02_http_requests.png)
+![HTTP Requests](screenshots/02_http_requests)
 
 ![HTTP Port 443](screenshots/03_http_port_443.png)
 
@@ -94,6 +94,4 @@ The full report includes the methodology, Wireshark display filters, packet time
 
 **Source:** Malware-Traffic-Analysis.net  
 **Dataset:** February 28, 2026 Traffic Analysis Exercise
-
-The original exercise page should be linked here once its exact URL has been verified.
 
