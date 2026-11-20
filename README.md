@@ -32,7 +32,7 @@ I identified repeated HTTP POST requests from `10.2.28.88` to external IP addres
 
 The requests targeted `/fakeurl.htm` using TCP destination port 443. Despite the port commonly being associated with HTTPS, the inspected traffic contained readable HTTP.
 
-![HTTP Requests](screenshots/02_http_requests)
+![HTTP Requests](screenshots/02_http_requests.png)
 
 ![HTTP Port 443](screenshots/03_http_port_443.png)
 
