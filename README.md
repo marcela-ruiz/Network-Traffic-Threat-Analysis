@@ -88,7 +88,7 @@ The findings identify suspicious communication patterns but do not independently
 
 The full report includes the methodology, Wireshark display filters, packet timeline, supporting evidence, and recommended investigation steps.
 
-[Full Investigation Report](Investigation_Report.pdf)
+[Full Investigation Report](Network_Traffic_Investigation.pdf)
 
 ## Dataset Attribution
 
